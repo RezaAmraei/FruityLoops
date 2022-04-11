@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body{
+	padding : 300px;
+}
+.format{
+	display: flex;
+	gap: 400px;
+	background-color: white;
+}
+.color{
+	color: pink;
+}
+.content{
+	padding : 20px;
+	background-color: pink;
+}
+#header{
+	font-weight : bold;
+}
+.row{
+	margin-top: 5px;
+}
